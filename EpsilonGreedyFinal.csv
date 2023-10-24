@@ -1,5 +1,0 @@
-Bandit,Reward,Algorithm
-An Arm with 1 Win Rate,1.0,EpsilonGreedy
-An Arm with 2 Win Rate,1.0,EpsilonGreedy
-An Arm with 3 Win Rate,1.0,EpsilonGreedy
-An Arm with 4 Win Rate,1.0,EpsilonGreedy
